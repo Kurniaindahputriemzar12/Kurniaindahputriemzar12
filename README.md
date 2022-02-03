@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kurniaindahputriemzar12
 - 👀 I’m interested in Data Science, Engineering and Business
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m Looking for opportunity as Data Analyst / Data Scientist 
+- 💞️ I’m Looking for opportunity as Management Trainee or Data Analyst / Data Scientist 
 - 📫 How to reach me kurniaindahputrie@gmail.com
 
 <!---
